@@ -16,7 +16,7 @@
 ## Connect With Me
 
 <div align="center">
-  <a href="https://github.com/tarek-dev-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/tarek-alliani-6a47b9446"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="mailto:alphafreecs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email me" /></a>
   <br><br>
   <a href="https://ko-fi.com/T6T310VS8E"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>

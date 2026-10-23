@@ -7,10 +7,12 @@
 - 📚 Currently learning **Java & Advanced C**
 - 💬 Ask me for **OS Tips & Tricks**
 - 👨‍💻 Some of **[My Projects](https://github.com/tarek-dev-coder?tab=repositories)**
+
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 🚀 Languages and Tools
-<div align="center"><a href="https://github.com/tarek-dev-coder"><img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,npm,elasticsearch,ruby,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,dart,flutter,java,html,heroku,graphql,gradle,go,git,c,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,cassandra,pnpm,fastapi,linux,wasm,bash,tailwind,react,rails,ts,redux,regex,redis,sklearn,tensorflow,sqlite,arduino" alt="Programming languages and development tools"/><br><br><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,netlify,azure,vercel,supabase,gcp,firebase" alt="Cloud and hosting platforms"/><br><br><img src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma,obsidian" alt="Design and productivity tools"/></a></div>
+
+<div align="center"><a href="https://github.com/tarek-dev-coder"><img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,npm,elasticsearch,ruby,nodejs,nextjs,nestjs,mysql,mongodb,matlab,electron,docker,django,md,lua,less,kubernetes,express,js,dart,flutter,java,html,heroku,graphql,gradle,go,git,c,py,pytorch,prisma,postman,opencv,perl,powershell,postgres,cassandra,pnpm,fastapi,linux,wasm,bash,tailwind,react,rails,ts,redux,regex,redis,sklearn,tensorflow,sqlite,arduino&perline=9" alt="Programming languages and development tools"/><br><br><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,aws,netlify,azure,vercel,supabase,gcp,firebase" alt="Cloud and hosting platforms"/><br><br><img src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma,obsidian" alt="Design and productivity tools"/></a></div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## Connect With Me
@@ -24,17 +26,17 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 📊 GitHub Stats
-<div align="center">
-    <a href="https://github.com/tarek-dev-coder"><img src="https://streak-stats.demolab.com?user=tarek-dev-coder&amp;theme=transparent&amp;hide_border=true&amp;card_width=300&amp;card_height=200" alt="GitHub contribution streak" /></a>
-    <a href="https://github.com/tarek-dev-coder"><img src="https://github-readme-stats.vercel.app/api?username=tarek-dev-coder&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" /></a>
 
+<div align="center">
+  <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://streak-stats.demolab.com?user=tarek-dev-coder&theme=transparent&hide_border=true&card_width=467&card_height=195" alt="GitHub contribution streak" /></a>
+  <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://github-stats-extended.vercel.app/api?username=tarek-dev-coder&show_icons=true&hide_border=true&theme=transparent&card_width=467" alt="GitHub statistics" /></a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/tarek-dev-coder"><img src="https://github-profile-trophy.vercel.app/?username=tarek-dev-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" /></a>
+  <a href="https://github.com/tarek-dev-coder"><img src="https://github-profile-trophy-unserori.vercel.app/?username=tarek-dev-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" /></a>
 </p>
 <h3 align="center"><a href="https://github.com/tarek-dev-coder"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Feel+free+to+email+me!+📮;I'm+a+lifelong+learner+👨‍🎓" alt="Thanks for visiting! Feel free to email me. I'm a lifelong learner." /></a></h3>
 <div align="center"><a href="https://github.com/tarek-dev-coder"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a></div>

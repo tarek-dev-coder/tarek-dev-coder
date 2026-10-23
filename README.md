@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" alt="Portfolio — coming soon" title="Portfolio — coming soon" />
   <a href="https://www.linkedin.com/in/tarek-alliani-6a47b9446"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="mailto:alphafreecs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email me" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alphafreecs23@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email me" /></a>
   <br><br>
   <a href="https://ko-fi.com/T6T310VS8E"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
 </div>

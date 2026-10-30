@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://streak-stats.demolab.com?user=tarek-dev-coder&theme=transparent&hide_border=true&card_width=467&card_height=195" alt="GitHub contribution streak" /></a>
-  <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://github-stats-extended.vercel.app/api?username=tarek-dev-coder&show_icons=true&hide_border=true&theme=transparent&card_width=467" alt="GitHub statistics" /></a>
+  <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://github-readme-stats.shion.dev/api?username=tarek-dev-coder&show_icons=true&hide_border=true&theme=transparent&card_width=467&locale=en" alt="GitHub statistics" /></a>
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 

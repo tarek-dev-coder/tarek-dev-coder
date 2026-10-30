@@ -26,7 +26,7 @@
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 
-## 📊 GitHub Stats
+## 🎖️ My Statistics:
 
 <div align="center">
   <a href="https://github.com/tarek-dev-coder"><img width="390" src="https://streak-stats.demolab.com?user=tarek-dev-coder&theme=transparent&hide_border=true&card_width=467&card_height=195" alt="GitHub contribution streak" /></a>
